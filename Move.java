@@ -18,4 +18,5 @@ class Move{
   public Square getLanding(){
     return landing;
   }
+
 }

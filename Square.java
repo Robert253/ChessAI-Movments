@@ -2,6 +2,7 @@ class Square{
   public int xCoor;
   public int yCoor;
   public String pieceName;
+  public int score;
 
   public Square(int x, int y, String name){
     xCoor = x;
